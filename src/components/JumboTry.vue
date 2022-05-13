@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="Jumbotry.png" alt="Jumbotry">
+      <img src="../assets/jumbo.png" alt="jumbo">
   </div>
 </template>
 

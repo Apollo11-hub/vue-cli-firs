@@ -1,5 +1,9 @@
 <template>
-  <div>La mia prima app con Vue CLI!</div>
+  <div>
+    <span> La mia prima app con Vue CLI! </span>
+    
+  </div>
+  
 </template>
 
 <script>
